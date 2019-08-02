@@ -50,7 +50,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
+/**
+ * ES查询
+ */
 public class ElasticSearcher implements ArticleSearcher {
 
 
